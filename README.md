@@ -1,6 +1,8 @@
 # Shopee Product Recommendation Chatbot
 
 Một chatbot thông minh hỗ trợ tư vấn sản phẩm trên Shopee, sử dụng LangGraph và Discord để tạo trải nghiệm tư vấn mua sắm tự nhiên và hiệu quả.
+![Ảnh minh họa](demo.png)
+
 
 ## Tính năng chính
 
